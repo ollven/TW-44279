@@ -1,3 +1,0 @@
-[submodule "libs/lib-repo"]
-	path = libs/lib-repo
-	url = git@github.com:ollven/TW-44279-submodule.git
